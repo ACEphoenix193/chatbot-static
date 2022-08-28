@@ -60,14 +60,14 @@
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "Web_structure",
       "patterns": [
-        "How long does delivery take?",
+        "Which language does this website focus on?",
         "How long does shipping take?",
         "When do I get my delivery?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
+        "This website focuses on all languages, if you would like to contribute then pls contact us",
         "Shipping takes 2-4 days"
       ]
     },
