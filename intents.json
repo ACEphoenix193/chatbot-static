@@ -32,28 +32,31 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "who",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Who are you?",
+        "Who am I speaking to?",
+        "who do you identify yourself as?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "I am C0D3X, I was made by Shouvik and stand as CHAT SUPPORT for Website made by Parth ",
+        "Nice to meet you! I am C0D3X",
+        "I am the CHAT SUPPORT for CODY"
       ]
     },
     {
-      "tag": "payments",
+      "tag": "use",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "what is this website about?",
+        "What do you provide on this website?",
+        "why should i use this website?",
+        "What is there in this website?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Cody is a website that is dedicated to Coders all over the world",
+        "This website provides several resources and material that is useful for coders in the long run",
+        "You get access to a lot of useful free coding material",
+        "This website was built to be an exclusive and ever expanding-resource bank for coders all over the world. "
       ]
     },
     {
